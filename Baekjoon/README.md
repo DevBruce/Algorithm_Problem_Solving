@@ -12,6 +12,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1003, 제목: 피보나치 함수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1003.md) (문제 링크: <https://www.acmicpc.net/problem/1003>)
 
+- [문제번호: 1008, 제목: A/B](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1008.md) (문제 링크: <https://www.acmicpc.net/problem/1008>)
+
 - [문제번호: 2557, 제목: Hello World](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2557.md) (문제 링크: <https://www.acmicpc.net/problem/2557>)
 
 - [문제번호: 2741, 제목: N 찍기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2741.md) (문제 링크: <https://www.acmicpc.net/problem/2741>)
