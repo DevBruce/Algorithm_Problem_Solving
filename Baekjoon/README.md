@@ -14,6 +14,18 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1008, 제목: A/B](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1008.md) (문제 링크: <https://www.acmicpc.net/problem/1008>)
 
+- [문제번호: 1152, 제목: 단어의 개수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1152.md) (문제 링크: <https://www.acmicpc.net/problem/1152>)
+
+- [문제번호: 2438, 제목: 별 찍기 - 1](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2438.md) (문제 링크: <https://www.acmicpc.net/problem/2438>)
+
+- [문제번호: 2439, 제목: 별 찍기 - 2](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2439.md) (문제 링크: <https://www.acmicpc.net/problem/2439>)
+
+- [문제번호: 2440, 제목: 별 찍기 - 3](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2440.md) (문제 링크: <https://www.acmicpc.net/problem/2440>)
+
+- [문제번호: 2441, 제목: 별 찍기 - 4](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2441.md) (문제 링크: <https://www.acmicpc.net/problem/2441>)
+
+- [문제번호: 2442, 제목: 별 찍기 - 5](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2442.md) (문제 링크: <https://www.acmicpc.net/problem/2442>)
+
 - [문제번호: 2557, 제목: Hello World](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2557.md) (문제 링크: <https://www.acmicpc.net/problem/2557>)
 
 - [문제번호: 2741, 제목: N 찍기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2741.md) (문제 링크: <https://www.acmicpc.net/problem/2741>)
@@ -23,6 +35,10 @@ URL: <https://www.acmicpc.net/>
 - [문제번호: 2748, 제목: 피보나치 수 2](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2748.md) (문제 링크: <https://www.acmicpc.net/problem/2748>)
 
 - [문제번호: 9012, 제목: 괄호](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9012.md) (문제 링크: <https://www.acmicpc.net/problem/9012>)
+
+- [문제번호: 10039, 제목: 평균 점수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10039.md) (문제 링크: <https://www.acmicpc.net/problem/10039>)
+
+- [문제번호: 10172, 제목: 개](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10172.md) (문제 링크: <https://www.acmicpc.net/problem/10172>)
 
 - [문제번호: 10826, 제목: 피보나치 수 4](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10826.md) (문제 링크: <https://www.acmicpc.net/problem/10826>)
 
@@ -37,6 +53,8 @@ URL: <https://www.acmicpc.net/>
 - [문제번호: 10952, 제목: A+B - 5](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10952.md) (문제 링크: <https://www.acmicpc.net/problem/10952>)
 
 - [문제번호: 10953, 제목: A+B - 6](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10953.md) (문제 링크: <https://www.acmicpc.net/problem/10953>)
+
+- [문제번호: 10998, 제목: AxB](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10998.md) (문제 링크: <https://www.acmicpc.net/problem/10998>)
 
 - [문제번호: 11021, 제목: A+B - 7](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11021.md) (문제 링크: <https://www.acmicpc.net/problem/11021>)
 
