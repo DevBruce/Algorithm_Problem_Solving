@@ -14,6 +14,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 2557, 제목: Hello World](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2557.md) (문제 링크: <https://www.acmicpc.net/problem/2557>)
 
+- [문제번호: 9012, 제목: 괄호](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9012.md) (문제 링크: <https://www.acmicpc.net/problem/9012>)
+
 - [문제번호: 10828, 제목: 스택](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10828.md) (문제 링크: <https://www.acmicpc.net/problem/10828>)
 
 - [문제번호: 10950, 제목: A+B - 3](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10950.md) (문제 링크: <https://www.acmicpc.net/problem/10950>)
