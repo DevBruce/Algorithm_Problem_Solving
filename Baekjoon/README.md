@@ -18,6 +18,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 2741, 제목: N 찍기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2741.md) (문제 링크: <https://www.acmicpc.net/problem/2741>)
 
+- [문제번호: 2747, 제목: 피보나치 수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2747.md) (문제 링크: <https://www.acmicpc.net/problem/2747>)
+
 - [문제번호: 9012, 제목: 괄호](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9012.md) (문제 링크: <https://www.acmicpc.net/problem/9012>)
 
 - [문제번호: 10828, 제목: 스택](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10828.md) (문제 링크: <https://www.acmicpc.net/problem/10828>)
