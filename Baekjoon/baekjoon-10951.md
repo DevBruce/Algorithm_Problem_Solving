@@ -17,9 +17,8 @@
 ```python
 while True:
     try:
-        tmp = input().split()
-        A = int(tmp[0])
-        B = int(tmp[1])
+        raw = input().split()
+        A, B = int(raw[0]), int(raw[1])
         print(A + B)
     except EOFError:
         break
