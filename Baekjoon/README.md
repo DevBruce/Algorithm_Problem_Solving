@@ -28,6 +28,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 2557, 제목: Hello World](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2557.md) (문제 링크: <https://www.acmicpc.net/problem/2557>)
 
+- [문제번호: 2675, 제목: 문자열 반복](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2675.md) (문제 링크: <https://www.acmicpc.net/problem/2675>)
+
 - [문제번호: 2741, 제목: N 찍기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2741.md) (문제 링크: <https://www.acmicpc.net/problem/2741>)
 
 - [문제번호: 2747, 제목: 피보나치 수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2747.md) (문제 링크: <https://www.acmicpc.net/problem/2747>)
