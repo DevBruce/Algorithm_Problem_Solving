@@ -50,6 +50,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 9012, 제목: 괄호](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9012.md) (문제 링크: <https://www.acmicpc.net/problem/9012>)
 
+- [문제번호: 9498, 제목: 시험 성적](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9498.md) (문제 링크: <https://www.acmicpc.net/problem/9498>)
+
 - [문제번호: 10039, 제목: 평균 점수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10039.md) (문제 링크: <https://www.acmicpc.net/problem/10039>)
 
 - [문제번호: 10172, 제목: 개](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10172.md) (문제 링크: <https://www.acmicpc.net/problem/10172>)
