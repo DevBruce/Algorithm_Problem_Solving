@@ -95,3 +95,5 @@ URL: <https://www.acmicpc.net/>
 - [문제번호: 11720, 제목: 숫자의 합](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11720.md) (문제 링크: <https://www.acmicpc.net/problem/11720>)
 
 - [문제번호: 11721, 제목: 열 개씩 끊어 출력하기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11721.md) (문제 링크: <https://www.acmicpc.net/problem/11721>)
+
+- [문제번호: 15552, 제목: 빠른 A+B](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-15552.md) (문제 링크: <https://www.acmicpc.net/problem/15552>)
