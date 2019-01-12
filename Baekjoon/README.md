@@ -16,6 +16,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1152, 제목: 단어의 개수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1152.md) (문제 링크: <https://www.acmicpc.net/problem/1152>)
 
+- [문제번호: 1157, 제목: 단어 공부](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1157.md) (문제 링크: <https://www.acmicpc.net/problem/1157>)
+
 - [문제번호: 1924, 제목: 2007년](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1924.md) (문제 링크: <https://www.acmicpc.net/problem/1924>)
 
 - [문제번호: 2438, 제목: 별 찍기 - 1](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2438.md) (문제 링크: <https://www.acmicpc.net/problem/2438>)
