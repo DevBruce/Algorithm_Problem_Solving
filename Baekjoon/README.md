@@ -50,6 +50,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 10430, 제목: 나머지](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10430.md) (문제 링크: <https://www.acmicpc.net/problem/10430>)
 
+- [문제번호: 10718, 제목: We love kriii](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10718.md) (문제 링크: <https://www.acmicpc.net/problem/10718>)
+
 - [문제번호: 10809, 제목: 알파벳 찾기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10809.md) (문제 링크: <https://www.acmicpc.net/problem/10809>)
 
 - [문제번호: 10817, 제목: 세 수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10817.md) (문제 링크: <https://www.acmicpc.net/problem/10817>)
