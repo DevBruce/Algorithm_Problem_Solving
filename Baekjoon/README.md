@@ -32,6 +32,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 2675, 제목: 문자열 반복](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2675.md) (문제 링크: <https://www.acmicpc.net/problem/2675>)
 
+- [문제번호: 2739, 제목: 구구단](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2739.md) (문제 링크: <https://www.acmicpc.net/problem/2739>)
+
 - [문제번호: 2741, 제목: N 찍기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2741.md) (문제 링크: <https://www.acmicpc.net/problem/2741>)
 
 - [문제번호: 2742, 제목: 기찍 N](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2742.md) (문제 링크: <https://www.acmicpc.net/problem/2742>)
