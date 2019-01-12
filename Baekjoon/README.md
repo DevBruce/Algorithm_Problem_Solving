@@ -46,6 +46,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 4344, 제목: 평균은 넘겠지](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-4344.md) (문제 링크: <https://www.acmicpc.net/problem/4344>)
 
+- [문제번호: 7287, 제목: 등록](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-7287.md) (문제 링크: <https://www.acmicpc.net/problem/7287>)
+
 - [문제번호: 9012, 제목: 괄호](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9012.md) (문제 링크: <https://www.acmicpc.net/problem/9012>)
 
 - [문제번호: 10039, 제목: 평균 점수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10039.md) (문제 링크: <https://www.acmicpc.net/problem/10039>)
