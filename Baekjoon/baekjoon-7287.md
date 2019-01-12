@@ -13,6 +13,6 @@
 ## Python3
 
 ```python
-print('[푼 문제 갯수]')
-print('[UserName]')
+print('<푼 문제 갯수>')
+print('<UserName>')
 ```
