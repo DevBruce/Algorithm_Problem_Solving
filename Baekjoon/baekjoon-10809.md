@@ -7,7 +7,7 @@
 ## Python3
 
 ```python
-alphabet = ['a', 'b', 'c', 'd', 'e', 'f',
+alphabet_all = ['a', 'b', 'c', 'd', 'e', 'f',
            'g', 'h', 'i', 'j', 'k', 'l',
            'm', 'n', 'o', 'p', 'q', 'r',
            's', 't', 'u', 'v', 'w', 'x',
@@ -15,6 +15,6 @@ alphabet = ['a', 'b', 'c', 'd', 'e', 'f',
 
 S = input()
 
-for a in alphabet:
+for a in alphabet_all:
     print(S.find(a), end=' ')
 ```
