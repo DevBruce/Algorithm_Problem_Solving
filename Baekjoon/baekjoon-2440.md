@@ -20,6 +20,24 @@ for i in range(N):
 ```python
 N = int(input())
 
+for i in range(N, 1-1, -1):
+    print('*' * i)
+```
+
+### \# 3
+
+```python
+N = int(input())
+
 for i in reversed(range(1, N+1)):
+    print('*' * i)
+```
+
+### \# 4
+
+```python
+N = int(input())
+
+for i in range(1, N+1)[::-1]:
     print('*' * i)
 ```

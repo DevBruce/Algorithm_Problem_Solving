@@ -15,6 +15,7 @@ def fibo(n):
         dp.append(dp[i-1] + dp[i-2])
     return dp[n]
 
+
 n = int(input())
 print(fibo(n))
 ```
