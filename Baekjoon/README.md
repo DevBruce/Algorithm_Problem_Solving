@@ -46,6 +46,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 10172, 제목: 개](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10172.md) (문제 링크: <https://www.acmicpc.net/problem/10172>)
 
+- [문제번호: 10430, 제목: 나머지](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10430.md) (문제 링크: <https://www.acmicpc.net/problem/10430>)
+
 - [문제번호: 10809, 제목: 알파벳 찾기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10809.md) (문제 링크: <https://www.acmicpc.net/problem/10809>)
 
 - [문제번호: 10817, 제목: 세 수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10817.md) (문제 링크: <https://www.acmicpc.net/problem/10817>)
@@ -53,6 +55,8 @@ URL: <https://www.acmicpc.net/>
 - [문제번호: 10826, 제목: 피보나치 수 4](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10826.md) (문제 링크: <https://www.acmicpc.net/problem/10826>)
 
 - [문제번호: 10828, 제목: 스택](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10828.md) (문제 링크: <https://www.acmicpc.net/problem/10828>)
+
+- [문제번호: 10869, 제목: 사칙연산](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10869.md) (문제 링크: <https://www.acmicpc.net/problem/10869>)
 
 - [문제번호: 10870, 제목: 피보나치 수 5](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10870.md) (문제 링크: <https://www.acmicpc.net/problem/10870>)
 
