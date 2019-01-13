@@ -18,6 +18,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1157, 제목: 단어 공부](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1157.md) (문제 링크: <https://www.acmicpc.net/problem/1157>)
 
+- [문제번호: 1463, 제목: 1로 만들기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1463.md) (문제 링크: <https://www.acmicpc.net/problem/1463>)
+
 - [문제번호: 1924, 제목: 2007년](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1924.md) (문제 링크: <https://www.acmicpc.net/problem/1924>)
 
 - [문제번호: 2193, 제목: 이친수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2193.md) (문제 링크: <https://www.acmicpc.net/problem/2193>)
