@@ -14,7 +14,7 @@
 
 <br>
 
-**i )** 타일의 끝을 2x1 로 채우는 경우
+**i )** 타일의 끝을 2x1 한개로 채우는 경우
 
 <img src="https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/images/baekjoon-11726-tile01.png" width="400">  
 
@@ -33,8 +33,9 @@
 ## 특이사항
 
 `D[0]` 은 2x0 타일을 채우는 방법의 수를 의미하게 된다.  
-`D[0]` 의 해는 없다. 해가 없다를 1개라고 할당할 경우 문제접근을 더욱  
-간단하게 할 수 있다.
+`D[0]` 의 해는 없다.  
+해당 문제의 경우, "해가 없다" 를 1개라고 할당할 경우 문제접근을 더욱  
+간단하게 할 수 있다.  
 
 <br>
 
