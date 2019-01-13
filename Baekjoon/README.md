@@ -20,6 +20,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1924, 제목: 2007년](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1924.md) (문제 링크: <https://www.acmicpc.net/problem/1924>)
 
+- [문제번호: 2193, 제목: 이친수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2193.md) (문제 링크: <https://www.acmicpc.net/problem/2193>)
+
 - [문제번호: 2438, 제목: 별 찍기 - 1](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2438.md) (문제 링크: <https://www.acmicpc.net/problem/2438>)
 
 - [문제번호: 2439, 제목: 별 찍기 - 2](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2439.md) (문제 링크: <https://www.acmicpc.net/problem/2439>)
