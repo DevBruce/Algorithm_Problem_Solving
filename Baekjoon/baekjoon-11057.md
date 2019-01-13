@@ -40,7 +40,7 @@ Dynamic Programming (Bottom-Up)
 
 ```python
 def get_asc_num_cnt(num):
-    dp = [[0 for _ in range(10)] for _ in range(num+1)]
+    dp = [[0 for _ in range(9+1)] for _ in range(num+1)]
     for l in range(9+1):
         dp[1][l] = 1
 
