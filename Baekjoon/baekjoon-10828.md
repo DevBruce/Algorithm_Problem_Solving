@@ -6,6 +6,8 @@
 
 ## Python3
 
+Python 의 list 를 상속받아 Stack 을 구현
+
 ```python
 class Stack(list):
     push = list.append
