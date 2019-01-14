@@ -82,6 +82,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 10828, 제목: 스택](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10828.md) (문제 링크: <https://www.acmicpc.net/problem/10828>)
 
+- [문제번호: 10845, 제목: 큐](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10845.md) (문제 링크: <https://www.acmicpc.net/problem/10845>)
+
 - [문제번호: 10869, 제목: 사칙연산](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10869.md) (문제 링크: <https://www.acmicpc.net/problem/10869>)
 
 - [문제번호: 10870, 제목: 피보나치 수 5](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10870.md) (문제 링크: <https://www.acmicpc.net/problem/10870>)
