@@ -80,6 +80,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 10820, 제목: 문자열 분석](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10820.md) (문제 링크: <https://www.acmicpc.net/problem/10820>)
 
+- [문제번호: 10824, 제목: 네 수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10824.md) (문제 링크: <https://www.acmicpc.net/problem/10824>)
+
 - [문제번호: 10826, 제목: 피보나치 수 4](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10826.md) (문제 링크: <https://www.acmicpc.net/problem/10826>)
 
 - [문제번호: 10828, 제목: 스택](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10828.md) (문제 링크: <https://www.acmicpc.net/problem/10828>)
