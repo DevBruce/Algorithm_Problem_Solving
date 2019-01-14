@@ -108,6 +108,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 11057, 제목: 오르막 수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11057.md) (문제 링크: <https://www.acmicpc.net/problem/11057>)
 
+- [문제번호: 11656, 제목: 접미사 배열](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11656.md) (문제 링크: <https://www.acmicpc.net/problem/11656>)
+
 - [문제번호: 11718, 제목: 그대로 출력하기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11718.md) (문제 링크: <https://www.acmicpc.net/problem/11718>)
 
 - [문제번호: 11719, 제목: 그대로 출력하기 2](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11719.md) (문제 링크: <https://www.acmicpc.net/problem/11719>)
