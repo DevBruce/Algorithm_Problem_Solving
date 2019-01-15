@@ -108,6 +108,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 11022, 제목: A+B - 8](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11022.md) (문제 링크: <https://www.acmicpc.net/problem/11022>)
 
+- [문제번호: 11052, 제목: 카드 구매하기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11052.md) (문제 링크: <https://www.acmicpc.net/problem/11052>)
+
 - [문제번호: 11057, 제목: 오르막 수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11057.md) (문제 링크: <https://www.acmicpc.net/problem/11057>)
 
 - [문제번호: 11655, 제목: ROT13](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11655.md) (문제 링크: <https://www.acmicpc.net/problem/11655>)
