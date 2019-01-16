@@ -13,9 +13,11 @@
 
 - 다이나믹 프로그래밍
 
-`D[N]` 은 2xn 타일을 2x1, 1x2, 2x2 타일로 채울 수 있는 방법의 수라고 가정한다.  
+<br>
 
-`D[N]` 을 채우는 경우의 수는 3가지로 분류할 수 있다.  
+`D[n]` 은 2xn 타일을 2x1, 1x2, 2x2 타일로 채울 수 있는 방법의 수라고 가정한다.  
+
+`D[n]` 을 채우는 경우의 수는 3가지로 분류할 수 있다.  
 
 <br>
 
@@ -40,11 +42,11 @@
 따라서 결과는 다음과 같다.
 
 ```
-D[N] = D[N-1] + D[N-2] + D[N-2]
+D[n] = D[n-1] + D[n-2] + D[n-2]
 ```
 
 ```
-D[N] = D[N-1] + 2 * D[N-2]
+D[n] = D[n-1] + 2 * D[n-2]
 ```
 
 <br>
@@ -64,10 +66,10 @@ Dynamic Programming (Bottom-Up)
 
 ```python
 def tile_cnt(num):
-    dp = [1, 1]
+    d = [1, 1]
     for i in range(2, num+1):
-        dp.append(dp[i-1] + 2 * dp[i-2])
-    return dp[num]
+        d.append(d[i-1] + 2 * d[i-2])
+    return d[num]
 
 
 n = int(input())

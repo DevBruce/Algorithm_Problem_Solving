@@ -8,11 +8,13 @@
 
 - 다이나믹 프로그래밍
 
-`D[N]` 은 N을 1, 2, 3 의 합으로 나타날 수 있는 방법의 갯수라고 가정한다.  
+<br>
 
-N 을 식으로 표현하면 다음과 같다.
+`D[n]` 은 n 을 1, 2, 3 의 합으로 나타날 수 있는 방법의 갯수라고 가정한다.  
 
-x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub> + . . . + x<sub>i-1</sub> + x<sub>i</sub> = N  
+n 을 식으로 표현하면 다음과 같다.
+
+x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub> + . . . + x<sub>i-1</sub> + x<sub>i</sub> = n  
 
 이 때 x<sub>i</sub> 가 될 수 있는 경우의 수는 3가지이다.  
 
@@ -20,29 +22,29 @@ x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub> + . . . + x<sub>i-1</sub> + x<sub>
 
 **i )** x<sub>i</sub> = 1
 
-x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub> + . . . x<sub>i-1</sub> = N - 1  
+x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub> + . . . x<sub>i-1</sub> = n - 1  
 
-\>\>\> `D[N-1]`  
+\>\>\> `D[n-1]`  
 
 <br>
 
 **ii )** x<sub>i</sub> = 2
 
-x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub> + . . . x<sub>i-1</sub> = N - 2
+x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub> + . . . x<sub>i-1</sub> = n - 2
 
-\>\>\> `D[N-2]`  
+\>\>\> `D[n-2]`  
 
 <br>
 
 **iii )** x<sub>i</sub> = 3
 
-x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub> + . . . x<sub>i-1</sub> = N - 3
+x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub> + . . . x<sub>i-1</sub> = n - 3
 
-\>\>\> `D[N-3]`  
+\>\>\> `D[n-3]`  
 
 <br>
 
-이에따라 `D[N] = D[N-1] + D[N-2] + D[N-3]` 임을 알 수 있다.  
+이에따라 `D[n] = D[n-1] + D[n-2] + D[n-3]` 임을 알 수 있다.  
 
 <br>
 
@@ -61,10 +63,10 @@ Dynamic Programming (Bottom-Up)
 
 ```python
 def get_cnt(num):
-    dp = [1, 1, 2]
+    d = [1, 1, 2]
     for i in range(3, num+1):
-        dp.append(dp[i-1] + dp[i-2] + dp[i-3])
-    return dp[n]
+        d.append(d[i-1] + d[i-2] + d[i-3])
+    return d[n]
 
 
 T = int(input())

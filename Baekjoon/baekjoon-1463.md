@@ -8,13 +8,15 @@
 
 - 다이나믹 프로그래밍
 
-`D[N]` 은 N을 1로 만드는 최소 연산횟수로 가정한다.  
+<br>
 
-`D[N]` 은 아래의 세가지 항목 중 최솟값에 해당한다.  
+`D[n]` 은 N을 1로 만드는 최소 연산횟수로 가정한다.  
 
-- `D[N-1] + 1`
-- `D[N/3] + 1` (3 으로 나누어질 경우)  
-- `D[N/2] + 1` (2 로 나누어질 경우)
+`D[n]` 은 아래의 세가지 항목 중 최솟값에 해당한다.  
+
+- `D[n-1] + 1`
+- `D[n/3] + 1` (3 으로 나누어질 경우)  
+- `D[n/2] + 1` (2 로 나누어질 경우)
 
 <br>
 
@@ -32,15 +34,15 @@ Dynamic Programming (Bottom-Up)
 
 ```python
 def make_one(num):
-    dp = [-1, 0, 1]
+    d = [-1, 0, 1]
     for i in range(3, num+1):
-        cnt_min = dp[i-1] + 1
-        if i % 3 == 0 and dp[i//3] + 1 < cnt_min:
-            cnt_min = dp[i//3] + 1
-        elif i % 2 == 0 and dp[i//2] + 1 < cnt_min:
-            cnt_min = dp[i//2] + 1
-        dp.append(cnt_min)
-    return dp[num]
+        cnt_min = d[i-1] + 1
+        if i % 3 == 0 and d[i//3] + 1 < cnt_min:
+            cnt_min = d[i//3] + 1
+        elif i % 2 == 0 and d[i//2] + 1 < cnt_min:
+            cnt_min = d[i//2] + 1
+        d.append(cnt_min)
+    return d[num]
 
 
 N = int(input())
