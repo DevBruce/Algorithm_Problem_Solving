@@ -38,6 +38,10 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 2444, 제목: 별 찍기 - 7](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2444.md) (문제 링크: <https://www.acmicpc.net/problem/2444>)
 
+- [문제번호: 2445, 제목: 별 찍기 - 8](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2445.md) (문제 링크: <https://www.acmicpc.net/problem/2445>)
+
+- [문제번호: 2446, 제목: 별 찍기 - 9](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2446.md) (문제 링크: <https://www.acmicpc.net/problem/2446>)
+
 - [문제번호: 2557, 제목: Hello World](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2557.md) (문제 링크: <https://www.acmicpc.net/problem/2557>)
 
 - [문제번호: 2558, 제목: A+B - 2](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2558.md) (문제 링크: <https://www.acmicpc.net/problem/2558>)
