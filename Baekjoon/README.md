@@ -110,6 +110,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 10870, 제목: 피보나치 수 5](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10870.md) (문제 링크: <https://www.acmicpc.net/problem/10870>)
 
+- [문제번호: 10871, 제목: X보다 작은 수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10871.md) (문제 링크: <https://www.acmicpc.net/problem/10871>)
+
 - [문제번호: 10950, 제목: A+B - 3](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10950.md) (문제 링크: <https://www.acmicpc.net/problem/10950>)
 
 - [문제번호: 10951, 제목: A+B - 4](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10951.md) (문제 링크: <https://www.acmicpc.net/problem/10951>)
