@@ -24,6 +24,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1924, 제목: 2007년](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1924.md) (문제 링크: <https://www.acmicpc.net/problem/1924>)
 
+- [문제번호: 2156, 제목: 포도주 시식](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2156.md) (문제 링크: <https://www.acmicpc.net/problem/2156>)
+
 - [문제번호: 2193, 제목: 이친수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2193.md) (문제 링크: <https://www.acmicpc.net/problem/2193>)
 
 - [문제번호: 2438, 제목: 별 찍기 - 1](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2438.md) (문제 링크: <https://www.acmicpc.net/problem/2438>)
@@ -73,6 +75,8 @@ URL: <https://www.acmicpc.net/>
 - [문제번호: 9012, 제목: 괄호](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9012.md) (문제 링크: <https://www.acmicpc.net/problem/9012>)
 
 - [문제번호: 9095, 제목: 1,2,3 더하기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9095.md) (문제 링크: <https://www.acmicpc.net/problem/9095>)
+
+- [문제번호: 9465, 제목: 스티커](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9465.md) (문제 링크: <https://www.acmicpc.net/problem/9465>)
 
 - [문제번호: 9498, 제목: 시험 성적](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9498.md) (문제 링크: <https://www.acmicpc.net/problem/9498>)
 
