@@ -50,7 +50,7 @@ def tile_cnt(num):
     d = [1, 1]
     for i in range(2, num+1):
         d.append(d[i-1] + d[i-2])
-    return d[n]
+    return d[num]
 
 
 n = int(input())
