@@ -126,11 +126,11 @@ print(get_cnt(N))
 Dynamic Programming (Bottom-Up)
 
 ```python
-def get_cnt(n):
+def get_cnt(num):
     d = [0, 1]
-    for i in range(2, n+1):
+    for i in range(2, num+1):
         d.append(d[i-1] + d[i-2])
-    return d[n]
+    return d[num]
 
 
 N = int(input())
