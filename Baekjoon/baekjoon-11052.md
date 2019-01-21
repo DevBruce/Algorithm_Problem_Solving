@@ -52,11 +52,11 @@ D[0] + P<sub>3</sub>
 
 
 ```python
-def max_price(num, prices):
+def max_price(num, data):
     d = [0] * (num+1)
     for n in range(1, num+1):
         for i in range(1, n+1):
-            d[n] = max(d[n], d[n-i] + prices[i-1])
+            d[n] = max(d[n], d[n-i] + data[i-1])
     return d[num]
 
 
