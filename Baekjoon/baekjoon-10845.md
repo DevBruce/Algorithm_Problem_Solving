@@ -33,9 +33,8 @@ N = int(input())
 
 for _ in range(N):
     cmd = input()
-    if cmd[:3+1] == 'push':
-        enqueue_data = int(cmd[5:])
-        queue.enqueue(enqueue_data)
+    if cmd.split()[0] == 'push':
+        queue.enqueue(int(cmd.split()[1]))
     elif cmd == 'pop':
         if queue.size():
             print(queue.dequeue())
