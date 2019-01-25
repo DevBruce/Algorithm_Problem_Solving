@@ -74,6 +74,10 @@ D[n][2] = D[n-1][1] + W[n]
 
 Dynamic Programming (Bottom-Up)
 
+### # 1
+
+2 차원 풀이
+
 ```python
 def get_max(num, data):
     d = [[0, 0, 0] for _ in range(num)]
@@ -84,10 +88,35 @@ def get_max(num, data):
     for i in range(1, num):
         d[i][0] = max(d[i-1])
         d[i][1] = d[i-1][0] + data[i]
-        d[i][2] = d[i-1][1] + data[i]
-        
-    max_wine = max(d[num-1])
-    return max_wine
+        d[i][2] = d[i-1][1] + data[i]  
+    return max(d[num-1])
+
+
+n = int(input())
+wines = list()
+for _ in range(n):
+    wines.append(int(input()))
+print(get_max(n, wines))
+```
+
+### # 2
+
+1 차원 풀이
+
+```python
+def get_max(num, data):
+    if num > 3:
+        d = [0] * num
+    else:
+        d = [0,0,0]
+        data.extend([0,0])
+    d[0] = data[0]
+    d[1] = data[0] + data[1]
+    d[2] = max(data[0]+data[1], data[0]+data[2], data[1]+data[2])
+
+    for i in range(3, num):
+        d[i] = max(d[i-1], d[i-2]+data[i], d[i-3]+data[i]+data[i-1])
+    return d[num-1]
 
 
 n = int(input())
