@@ -54,6 +54,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 2577, 제목: 숫자의 개수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2577.md) (문제 링크: <https://www.acmicpc.net/problem/2577>)
 
+- [문제번호: 2579, 제목: 계단 오르기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2579.md) (문제 링크: <https://www.acmicpc.net/problem/2579>)
+
 - [문제번호: 2675, 제목: 문자열 반복](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2675.md) (문제 링크: <https://www.acmicpc.net/problem/2675>)
 
 - [문제번호: 2739, 제목: 구구단](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2739.md) (문제 링크: <https://www.acmicpc.net/problem/2739>)
@@ -132,6 +134,10 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 11052, 제목: 카드 구매하기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11052.md) (문제 링크: <https://www.acmicpc.net/problem/11052>)
 
+- [문제번호: 11053, 제목: 가장 긴 증가하는 부분 수열](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11053.md) (문제 링크: <https://www.acmicpc.net/problem/11053>)
+
+- [문제번호: 11055, 제목: 가장 큰 증가하는 부분 수열](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11055.md) (문제 링크: <https://www.acmicpc.net/problem/11055>)
+
 - [문제번호: 11057, 제목: 오르막 수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11057.md) (문제 링크: <https://www.acmicpc.net/problem/11057>)
 
 - [문제번호: 11655, 제목: ROT13](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11655.md) (문제 링크: <https://www.acmicpc.net/problem/11655>)
@@ -145,6 +151,8 @@ URL: <https://www.acmicpc.net/>
 - [문제번호: 11720, 제목: 숫자의 합](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11720.md) (문제 링크: <https://www.acmicpc.net/problem/11720>)
 
 - [문제번호: 11721, 제목: 열 개씩 끊어 출력하기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11721.md) (문제 링크: <https://www.acmicpc.net/problem/11721>)
+
+- [문제번호: 11722, 제목: 가장 긴 감소하는 부분 수열](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11722.md) (문제 링크: <https://www.acmicpc.net/problem/11722>)
 
 - [문제번호: 11726, 제목: 2xn 타일링](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11726.md) (문제 링크: <https://www.acmicpc.net/problem/11726>)
 
