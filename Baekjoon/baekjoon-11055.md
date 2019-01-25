@@ -17,7 +17,7 @@
 Dynamic Programming (Bottom-Up)
 
 ```python
-def get_greatest_IS(num, data):
+def get_greatest_IS_val(num, data):
     d = data.copy()
     for i in range(num):
         for j in range(i):
@@ -28,5 +28,5 @@ def get_greatest_IS(num, data):
 
 N = int(input())
 A = list(map(int, input().split()))
-print(get_greatest_IS(N, A))
+print(get_greatest_IS_val(N, A))
 ```
