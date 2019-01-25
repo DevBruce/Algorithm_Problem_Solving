@@ -17,7 +17,7 @@
 Dynamic Programming (Bottom-Up)
 
 ```python
-def get_longest_decrease_S(num, data):
+def get_longest_decreasing_S(num, data):
     d = [1 for _ in range(num)]
     for i in range(num):
         for j in range(i):
@@ -28,5 +28,5 @@ def get_longest_decrease_S(num, data):
 
 N = int(input())
 A = list(map(int, input().split()))
-print(get_longest_decrease_S(N, A))
+print(get_longest_decreasing_S(N, A))
 ```
