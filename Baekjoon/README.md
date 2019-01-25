@@ -138,6 +138,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 11053, 제목: 가장 긴 증가하는 부분 수열](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11053.md) (문제 링크: <https://www.acmicpc.net/problem/11053>)
 
+- [문제번호: 11054, 제목: 가장 긴 바이토닉 부분 수열](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11054.md) (문제 링크: <https://www.acmicpc.net/problem/11054>)
+
 - [문제번호: 11055, 제목: 가장 큰 증가하는 부분 수열](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11055.md) (문제 링크: <https://www.acmicpc.net/problem/11055>)
 
 - [문제번호: 11057, 제목: 오르막 수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11057.md) (문제 링크: <https://www.acmicpc.net/problem/11057>)
