@@ -9,7 +9,7 @@
 유클리드 호제법을 통해 최대공약수 (GCD) 를 구한 뒤,  
 최대공약수를 통해 최소공배수 (LCM) 을 구하였다.  
 
-참고 : [DevBruce's Blog - [Algorithm] GCD / Euclidean Algorithm](https://devbruce.github.io/algorithm/alg-02-gcd/)
+참고 : [DevBruce's Blog - [Algorithm] GCD / LCM / Euclidean Algorithm](https://devbruce.github.io/algorithm/alg-02-gcd/)
 
 <br>
 
