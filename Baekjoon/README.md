@@ -60,6 +60,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 2579, 제목: 계단 오르기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2579.md) (문제 링크: <https://www.acmicpc.net/problem/2579>)
 
+- [문제번호: 2609, 제목: 최대공약수와 최소공배수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2609.md) (문제 링크: <https://www.acmicpc.net/problem/2609>)
+
 - [문제번호: 2675, 제목: 문자열 반복](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2675.md) (문제 링크: <https://www.acmicpc.net/problem/2675>)
 
 - [문제번호: 2739, 제목: 구구단](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2739.md) (문제 링크: <https://www.acmicpc.net/problem/2739>)
