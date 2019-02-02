@@ -74,6 +74,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 2743, 제목: 단어 길이 재기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2743.md) (문제 링크: <https://www.acmicpc.net/problem/2743>)
 
+- [문제번호: 2745, 제목: 진법 변환](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2745.md) (문제 링크: <https://www.acmicpc.net/problem/2745>)
+
 - [문제번호: 2747, 제목: 피보나치 수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2747.md) (문제 링크: <https://www.acmicpc.net/problem/2747>)
 
 - [문제번호: 2748, 제목: 피보나치 수 2](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2748.md) (문제 링크: <https://www.acmicpc.net/problem/2748>)
