@@ -140,6 +140,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 10998, 제목: AxB](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10998.md) (문제 링크: <https://www.acmicpc.net/problem/10998>)
 
+- [문제번호: 11005, 제목: 진법 변환 2](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11005.md) (문제 링크: <https://www.acmicpc.net/problem/11005>)
+
 - [문제번호: 11021, 제목: A+B - 7](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11021.md) (문제 링크: <https://www.acmicpc.net/problem/11021>)
 
 - [문제번호: 11022, 제목: A+B - 8](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11022.md) (문제 링크: <https://www.acmicpc.net/problem/11022>)
