@@ -22,6 +22,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1212, 제목: 8진수 2진수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1212.md) (문제 링크: <https://www.acmicpc.net/problem/1212>)
 
+- [문제번호: 1373, 제목: 2진수 8진수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1373.md) (문제 링크: <https://www.acmicpc.net/problem/1373>)
+
 - [문제번호: 1406, 제목: 에디터](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1406.md) (문제 링크: <https://www.acmicpc.net/problem/1406>)
 
 - [문제번호: 1463, 제목: 1로 만들기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1463.md) (문제 링크: <https://www.acmicpc.net/problem/1463>)
