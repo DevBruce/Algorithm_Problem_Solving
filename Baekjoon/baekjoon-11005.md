@@ -41,5 +41,5 @@ def convert_num(num, base):
 
 
 N, B = map(int, input().split())
-print(ch_num(N, B))
+print(convert_num(N, B))
 ```
