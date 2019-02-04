@@ -28,6 +28,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1463, 제목: 1로 만들기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1463.md) (문제 링크: <https://www.acmicpc.net/problem/1463>)
 
+- [문제번호: 1546, 제목: 평균](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1546.md) (문제 링크: <https://www.acmicpc.net/problem/1546>)
+
 - [문제번호: 1699, 제목: 제곱수의 합](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1699.md) (문제 링크: <https://www.acmicpc.net/problem/1699>)
 
 - [문제번호: 1912, 제목: 연속합](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1912.md) (문제 링크: <https://www.acmicpc.net/problem/1912>)
