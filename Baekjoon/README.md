@@ -38,6 +38,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1934, 제목: 최소공배수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1934.md) (문제 링크: <https://www.acmicpc.net/problem/1934>)
 
+- [문제번호: 2089, 제목: -2진수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2089.md) (문제 링크: <https://www.acmicpc.net/problem/2089>)
+
 - [문제번호: 2156, 제목: 포도주 시식](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2156.md) (문제 링크: <https://www.acmicpc.net/problem/2156>)
 
 - [문제번호: 2193, 제목: 이친수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2193.md) (문제 링크: <https://www.acmicpc.net/problem/2193>)
