@@ -31,13 +31,13 @@ n 을 k 로 나누었을 때의 몫이 0 이 될 때까지 해당 작업을 반�
 ```python
 def convert_num(num, base):
     result = ''
-    while num > 0:
+    while num != 0:
         num, rmd = divmod(num, base)
         if rmd > 9:
             result += chr(55+rmd)
         else:
             result += str(rmd)
-    return result[::-1]
+    return result[::-1] if result else '0'
 
 
 N, B = map(int, input().split())
