@@ -37,7 +37,7 @@ def convert_num(num, base):
             result += chr(55+rmd)
         else:
             result += str(rmd)
-    return result[::-1] if result else '0'
+    return result[::-1] or '0'
 
 
 N, B = map(int, input().split())

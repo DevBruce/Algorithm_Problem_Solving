@@ -22,7 +22,7 @@ def convert_num(num, base):
             result += chr(55+rmd)
         else:
             result += str(rmd)
-    return result[::-1] if result else '0'
+    return result[::-1] or '0'
 
 def convert_chr(x):
     x = int(x)
@@ -38,5 +38,5 @@ raw_num = map(convert_chr, input().split())
 converted_int = int(''.join(raw_num), base=A)
 converted_B = convert_num(converted_int, B)
 result = map(convert_ord, converted_B)
-print(' '.join(result))
+print(*result)
 ```
