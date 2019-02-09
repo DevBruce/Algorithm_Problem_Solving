@@ -14,29 +14,26 @@ A 진법의 수를 10 진법의 수로 변형한 뒤,
 ## Python3
 
 ```python
-def convert_num(num, base):
-    result = ''
+def convert_decimal(num_list, base):
+    num_reversed = num_list[::-1]
+    result = 0
+    for idx, n in enumerate(num_reversed):
+        result += (base ** idx) * n
+    return result
+
+def convert_base(num, base):
+    result = list()
     while num != 0:
         num, rmd = divmod(num, base)
-        if rmd > 9:
-            result += chr(55+rmd)
-        else:
-            result += str(rmd)
-    return result[::-1] or '0'
-
-def convert_chr(x):
-    x = int(x)
-    return chr(55 + x) if x > 9 else str(x)
-
-def convert_ord(x):
-    return str(ord(x)-55) if x.isalpha() else x
+        result.append(rmd)
+    return result[::-1] or [0]
         
 
 A, B = map(int, input().split())
 m = int(input())
-raw_num = map(convert_chr, input().split())
-converted_int = int(''.join(raw_num), base=A)
-converted_B = convert_num(converted_int, B)
-result = map(convert_ord, converted_B)
-print(*result)
+raw_num = list(map(int, input().split()))
+
+converted_decimal = convert_decimal(raw_num, base=A)
+converted_B = convert_base(converted_decimal, base=B)
+print(*converted_B)
 ```
