@@ -42,6 +42,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1934, 제목: 최소공배수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1934.md) (문제 링크: <https://www.acmicpc.net/problem/1934>)
 
+- [문제번호: 1978, 제목: 소수 찾기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1978.md) (문제 링크: <https://www.acmicpc.net/problem/1978>)
+
 - [문제번호: 2011, 제목: 암호코드](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2011.md) (문제 링크: <https://www.acmicpc.net/problem/2011>)
 
 - [문제번호: 2089, 제목: -2진수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2089.md) (문제 링크: <https://www.acmicpc.net/problem/2089>)
