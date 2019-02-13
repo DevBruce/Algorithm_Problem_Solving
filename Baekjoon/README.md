@@ -38,6 +38,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1924, 제목: 2007년](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1924.md) (문제 링크: <https://www.acmicpc.net/problem/1924>)
 
+- [문제번호: 1929, 제목: 소수 구하기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1929.md) (문제 링크: <https://www.acmicpc.net/problem/1929>)
+
 - [문제번호: 1934, 제목: 최소공배수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1934.md) (문제 링크: <https://www.acmicpc.net/problem/1934>)
 
 - [문제번호: 2011, 제목: 암호코드](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2011.md) (문제 링크: <https://www.acmicpc.net/problem/2011>)
