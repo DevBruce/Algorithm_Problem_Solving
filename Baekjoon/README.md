@@ -178,6 +178,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 11576, 제목: Base Conversion](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11576.md) (문제 링크: <https://www.acmicpc.net/problem/11576>)
 
+- [문제번호: 11653, 제목: 소인수 분해](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11653.md) (문제 링크: <https://www.acmicpc.net/problem/11653>)
+
 - [문제번호: 11654, 제목: 아스키 코드](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11654.md) (문제 링크: <https://www.acmicpc.net/problem/11654>)
 
 - [문제번호: 11655, 제목: ROT13](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11655.md) (문제 링크: <https://www.acmicpc.net/problem/11655>)
