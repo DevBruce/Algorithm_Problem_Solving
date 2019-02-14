@@ -32,6 +32,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1546, 제목: 평균](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1546.md) (문제 링크: <https://www.acmicpc.net/problem/1546>)
 
+- [문제번호: 1676, 제목: 팩토리얼 0의 개수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1676.md) (문제 링크: <https://www.acmicpc.net/problem/1676>)
+
 - [문제번호: 1699, 제목: 제곱수의 합](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1699.md) (문제 링크: <https://www.acmicpc.net/problem/1699>)
 
 - [문제번호: 1912, 제목: 연속합](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1912.md) (문제 링크: <https://www.acmicpc.net/problem/1912>)
