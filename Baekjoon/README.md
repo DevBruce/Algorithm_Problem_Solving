@@ -14,6 +14,8 @@ URL: <https://www.acmicpc.net/>
 
 - [문제번호: 1008, 제목: A/B](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1008.md) (문제 링크: <https://www.acmicpc.net/problem/1008>)
 
+- [문제번호: 1075, 제목: 나누기](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1075.md) (문제 링크: <https://www.acmicpc.net/problem/1075>)
+
 - [문제번호: 1152, 제목: 단어의 개수](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1152.md) (문제 링크: <https://www.acmicpc.net/problem/1152>)
 
 - [문제번호: 1157, 제목: 단어 공부](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-1157.md) (문제 링크: <https://www.acmicpc.net/problem/1157>)
