@@ -7,7 +7,6 @@
 ## Python3
 
 ```python
-raw = input().split()
-A, B = int(raw[0]), int(raw[1])
+A, B = map(int, input().split())
 print(A + B)
 ```
