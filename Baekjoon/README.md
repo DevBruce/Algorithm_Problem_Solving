@@ -100,6 +100,7 @@ URL: <https://www.acmicpc.net/>
 | 11055 | 가장 큰 증가하는 부분 수열 |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11055.md) |  [Problem](https://www.acmicpc.net/problem/11055) |
 | 11057 |          오르막 수         |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11057.md) |  [Problem](https://www.acmicpc.net/problem/11057) |
 | 11576 |       Base Conversion      |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11576.md) |  [Problem](https://www.acmicpc.net/problem/11576) |
+| 11650 |        좌표 정렬하기      |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11650.md) |  [Problem](https://www.acmicpc.net/problem/11650) |
 | 11653 |         소인수 분해        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11653.md) |  [Problem](https://www.acmicpc.net/problem/11653) |
 | 11654 |         아스키 코드        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11654.md) |  [Problem](https://www.acmicpc.net/problem/11654) |
 | 11655 |            ROT13           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11655.md) |  [Problem](https://www.acmicpc.net/problem/11655) |
