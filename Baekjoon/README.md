@@ -34,6 +34,7 @@ URL: <https://www.acmicpc.net/>
 |  2089 |           -2진수           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2089.md) |  [Problem](https://www.acmicpc.net/problem/2089) |
 |  2156 |         포도주 시식        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2156.md) |  [Problem](https://www.acmicpc.net/problem/2156) |
 |  2193 |           이친수           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2193.md) |  [Problem](https://www.acmicpc.net/problem/2193) |
+|  2225 |           합분해           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2225.md) |  [Problem](https://www.acmicpc.net/problem/2225) |
 |  2438 |         별 찍기 - 1        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2438.md) |  [Problem](https://www.acmicpc.net/problem/2438) |
 |  2439 |         별 찍기 - 2        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2439.md) |  [Problem](https://www.acmicpc.net/problem/2439) |
 |  2440 |         별 찍기 - 3        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2440.md) |  [Problem](https://www.acmicpc.net/problem/2440) |
