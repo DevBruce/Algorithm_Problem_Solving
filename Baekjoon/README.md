@@ -1,4 +1,4 @@
-# Baekjoon Online Judge
+# Baekjoon Online Judge (BOJ)
 
 URL: <https://www.acmicpc.net/>
 
