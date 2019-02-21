@@ -81,6 +81,7 @@ URL: <https://www.acmicpc.net/>
 | 10824 |            네 수           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10824.md) |  [Problem](https://www.acmicpc.net/problem/10824) |
 | 10826 |        피보나치 수 4       |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10826.md) |  [Problem](https://www.acmicpc.net/problem/10826) |
 | 10828 |            스택            |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10828.md) |  [Problem](https://www.acmicpc.net/problem/10828) |
+| 10844 |         쉬운 계단 수          |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10844.md) |  [Problem](https://www.acmicpc.net/problem/10844) |
 | 10845 |             큐             |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10845.md) |  [Problem](https://www.acmicpc.net/problem/10845) |
 | 10866 |             덱             |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10866.md) |  [Problem](https://www.acmicpc.net/problem/10866) |
 | 10869 |          사칙연산          |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10869.md) |  [Problem](https://www.acmicpc.net/problem/10869) |
