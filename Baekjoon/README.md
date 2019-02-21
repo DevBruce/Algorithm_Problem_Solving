@@ -101,6 +101,7 @@ URL: <https://www.acmicpc.net/>
 | 11005 |         진법 변환 2        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11005.md) |  [Problem](https://www.acmicpc.net/problem/11005) |
 | 11021 |           A+B - 7          |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11021.md) |  [Problem](https://www.acmicpc.net/problem/11021) |
 | 11022 |           A+B - 8          |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11022.md) |  [Problem](https://www.acmicpc.net/problem/11022) |
+| 11050 |        이항 계수 1       |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11050.md) |  [Problem](https://www.acmicpc.net/problem/11050) |
 | 11052 |        카드 구매하기       |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11052.md) |  [Problem](https://www.acmicpc.net/problem/11052) |
 | 11053 | 가장 긴 증가하는 부분 수열 |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11053.md) |  [Problem](https://www.acmicpc.net/problem/11053) |
 | 11054 | 가장 긴 바이토닉 부분 수열 |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11054.md) |  [Problem](https://www.acmicpc.net/problem/11054) |
