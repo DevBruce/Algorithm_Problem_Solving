@@ -80,6 +80,7 @@ URL: <https://www.acmicpc.net/>
 | 10809 |         알파벳 찾기        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10809.md) |  [Problem](https://www.acmicpc.net/problem/10809) |
 | 10814 |         나이순 정렬        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10814.md) |  [Problem](https://www.acmicpc.net/problem/10814) |
 | 10817 |            세 수           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10817.md) |  [Problem](https://www.acmicpc.net/problem/10817) |
+| 10818 |         최소, 최대         |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10818.md) |  [Problem](https://www.acmicpc.net/problem/10818) |
 | 10820 |         문자열 분석        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10820.md) |  [Problem](https://www.acmicpc.net/problem/10820) |
 | 10824 |            네 수           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10824.md) |  [Problem](https://www.acmicpc.net/problem/10824) |
 | 10826 |        피보나치 수 4       |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10826.md) |  [Problem](https://www.acmicpc.net/problem/10826) |
