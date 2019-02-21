@@ -10,7 +10,6 @@
 T = int(input())
 
 for n in range(T):
-    raw = input().split()
-    A, B = int(raw[0]), int(raw[1])
+    A, B = map(int, input().split())
     print(f'Case #{n+1}: {A} + {B} = {A + B}')
 ```
