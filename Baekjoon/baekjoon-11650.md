@@ -14,7 +14,6 @@ for _ in range(N):
     cor = list(map(int, input().split()))
     cor_list.append(cor)
 
-cor_list.sort()
-for c in cor_list:
+for c in sorted(cor_list):
     print(*c)
 ```
