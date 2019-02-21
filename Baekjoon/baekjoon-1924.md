@@ -24,7 +24,6 @@ def get_day(a, b):
     return day_list[datetime.date(2007, a, b).weekday()]
 
 
-raw = input().split()
-x, y = int(raw[0]), int(raw[1])
+x, y = map(int, input().split())
 print(get_day(x, y))
 ```
