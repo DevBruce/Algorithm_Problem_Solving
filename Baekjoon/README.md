@@ -95,6 +95,7 @@ URL: <https://www.acmicpc.net/>
 | 10952 |           A+B - 5          |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10952.md) |  [Problem](https://www.acmicpc.net/problem/10952) |
 | 10953 |           A+B - 6          |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10953.md) |  [Problem](https://www.acmicpc.net/problem/10953) |
 | 10998 |             AxB            |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10998.md) |  [Problem](https://www.acmicpc.net/problem/10998) |
+| 11004 |         K번째 수        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11004.md) |  [Problem](https://www.acmicpc.net/problem/11004) |
 | 11005 |         진법 변환 2        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11005.md) |  [Problem](https://www.acmicpc.net/problem/11005) |
 | 11021 |           A+B - 7          |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11021.md) |  [Problem](https://www.acmicpc.net/problem/11021) |
 | 11022 |           A+B - 8          |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11022.md) |  [Problem](https://www.acmicpc.net/problem/11022) |
