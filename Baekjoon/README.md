@@ -76,6 +76,7 @@ URL: <https://www.acmicpc.net/>
 | 10799 |          쇠막대기          |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10799.md) |  [Problem](https://www.acmicpc.net/problem/10799) |
 | 10808 |         알파벳 갯수        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10808.md) |  [Problem](https://www.acmicpc.net/problem/10808) |
 | 10809 |         알파벳 찾기        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10809.md) |  [Problem](https://www.acmicpc.net/problem/10809) |
+| 10814 |         나이순 정렬        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10814.md) |  [Problem](https://www.acmicpc.net/problem/10814) |
 | 10817 |            세 수           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10817.md) |  [Problem](https://www.acmicpc.net/problem/10817) |
 | 10820 |         문자열 분석        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10820.md) |  [Problem](https://www.acmicpc.net/problem/10820) |
 | 10824 |            네 수           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-10824.md) |  [Problem](https://www.acmicpc.net/problem/10824) |
