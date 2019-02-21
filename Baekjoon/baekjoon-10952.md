@@ -8,9 +8,7 @@
 
 ```python
 while True:
-    raw = input().split()
-    A, B = int(raw[0]), int(raw[1])
-    if A == 0 and B == 0:
-        break
+    A, B = map(int, input().split())
+    if A == 0 and B == 0: break
     print(A + B)
 ```

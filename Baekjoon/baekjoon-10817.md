@@ -7,7 +7,6 @@
 ## Python3
 
 ```python
-A, B, C = input().split()
-sorted_abc = sorted([int(A), int(B), int(C)])
-print(sorted_abc[1])
+A, B, C = map(int, input().split())
+print(sorted([A, B, C])[1])
 ```

@@ -7,9 +7,7 @@
 ## Python3
 
 ```python
-raw = input().split()
-A, B, C, D = raw[0], raw[1], raw[2], raw[3]
-x = int(A + B)
-y = int(C + D)
+A, B, C, D = input().split()
+x, y = int(A + B), int(C + D)
 print(x + y)
 ```
