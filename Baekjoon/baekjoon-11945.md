@@ -7,8 +7,7 @@
 ## Python3
 
 ```python
-raw = input().split()
-N, M = int(raw[0]), int(raw[1])
+N, M = map(int, input().split())
 
 for _ in range(N):
     print(input()[::-1])
