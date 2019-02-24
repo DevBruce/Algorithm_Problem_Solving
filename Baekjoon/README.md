@@ -68,6 +68,7 @@ URL: <https://www.acmicpc.net/>
 |  9012 |            괄호            |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9012.md) |  [Problem](https://www.acmicpc.net/problem/9012) |
 |  9020 |       골드바흐의 추측      |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9020.md) |  [Problem](https://www.acmicpc.net/problem/9020) |
 |  9095 |        1,2,3 더하기        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9095.md) |  [Problem](https://www.acmicpc.net/problem/9095) |
+|  9461 |         파도반 수열           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9461.md) |  [Problem](https://www.acmicpc.net/problem/9461) |
 |  9465 |           스티커           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9465.md) |  [Problem](https://www.acmicpc.net/problem/9465) |
 |  9498 |          시험 성적         |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9498.md) |  [Problem](https://www.acmicpc.net/problem/9498) |
 |  9613 |           GCD 합           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9613.md) |  [Problem](https://www.acmicpc.net/problem/9613) |
