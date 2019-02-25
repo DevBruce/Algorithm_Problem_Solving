@@ -33,6 +33,7 @@ URL: <https://www.acmicpc.net/>
 |  2004 |        조합 0의 개수       |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2004.md) |  [Problem](https://www.acmicpc.net/problem/2004) |
 |  2011 |          암호코드          |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2011.md) |  [Problem](https://www.acmicpc.net/problem/2011) |
 |  2089 |           -2진수           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2089.md) |  [Problem](https://www.acmicpc.net/problem/2089) |
+|  2133 |         타일 채우기        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2133.md) |  [Problem](https://www.acmicpc.net/problem/2133) |
 |  2156 |         포도주 시식        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2156.md) |  [Problem](https://www.acmicpc.net/problem/2156) |
 |  2193 |           이친수           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2193.md) |  [Problem](https://www.acmicpc.net/problem/2193) |
 |  2225 |           합분해           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-2225.md) |  [Problem](https://www.acmicpc.net/problem/2225) |
