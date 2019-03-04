@@ -63,9 +63,10 @@ Dynamic Programming (Bottom-Up)
 
 ```python
 def get_cnt(num):
-    d = [1, 1, 2]
+    d = [0] * (num + 1) if num > 1 else [0, 0, 0]
+    d[0], d[1], d[2] = 1, 1, 2
     for i in range(3, num+1):
-        d.append(d[i-1] + d[i-2] + d[i-3])
+        d[i] = d[i-1] + d[i-2] + d[i-3]
     return d[n]
 
 
