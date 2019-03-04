@@ -68,6 +68,7 @@ URL: <https://www.acmicpc.net/>
 |  8393 |             합             |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-8393.md) |  [Problem](https://www.acmicpc.net/problem/8393) |
 |  9012 |            괄호            |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9012.md) |  [Problem](https://www.acmicpc.net/problem/9012) |
 |  9020 |       골드바흐의 추측      |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9020.md) |  [Problem](https://www.acmicpc.net/problem/9020) |
+|  9093 |       단어 뒤집기     |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9093.md) |  [Problem](https://www.acmicpc.net/problem/9093) |
 |  9095 |        1,2,3 더하기        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9095.md) |  [Problem](https://www.acmicpc.net/problem/9095) |
 |  9461 |         파도반 수열           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9461.md) |  [Problem](https://www.acmicpc.net/problem/9461) |
 |  9465 |           스티커           |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-9465.md) |  [Problem](https://www.acmicpc.net/problem/9465) |
