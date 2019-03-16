@@ -125,6 +125,7 @@ URL: <https://www.acmicpc.net/>
 | 11720 |          숫자의 합         |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11720.md) |  [Problem](https://www.acmicpc.net/problem/11720) |
 | 11721 |    열 개씩 끊어 출력하기   |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11721.md) |  [Problem](https://www.acmicpc.net/problem/11721) |
 | 11722 | 가장 긴 감소하는 부분 수열 |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11722.md) |  [Problem](https://www.acmicpc.net/problem/11722) |
+| 11724 |     연결 요소의 개수     |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11724.md) |  [Problem](https://www.acmicpc.net/problem/11724) |
 | 11726 |         2xn 타일링         |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11726.md) |  [Problem](https://www.acmicpc.net/problem/11726) |
 | 11727 |        2xn 타일링 2        |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11727.md) |  [Problem](https://www.acmicpc.net/problem/11727) |
 | 11945 |        뜨거운 붕어빵       |  [My Solution](https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/Baekjoon/baekjoon-11945.md) |  [Problem](https://www.acmicpc.net/problem/11945) |
